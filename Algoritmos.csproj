@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-	<StartupObject>Algoritmos.SomatorioFatorial</StartupObject>
+	<StartupObject>Algoritmos.Matrizes.ExercicioR</StartupObject>
   </PropertyGroup>
 
 </Project>
